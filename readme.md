@@ -41,16 +41,20 @@
 $$
  \text{Percentage} = \left( \frac{\text{Part}}{\text{Whole}} \right) \times 100 
 $$
+
 **Common Percentage Formulas**  
-1. **Finding a Percentage of a Number** :$$
- \text{Result} = \text{Number} \times \left( \frac{\text{Percentage}}{100} \right) 
+1. **Finding a Percentage of a Number** :
+$$
+\text{Result} = \text{Number} \times \left( \frac{\text{Percentage}}{100} \right) 
 $$
  
-2. **Percentage Increase or Decrease** :$$
+2. **Percentage Increase or Decrease** :
+$$
  \text{Percentage Change} = \left( \frac{\text{Difference}}{\text{Original Value}} \right) \times 100 
 $$
  
-3. **Converting Fractions to Percentages** :$$
+3. **Converting Fractions to Percentages** :
+$$
  \text{Percentage} = \left( \frac{\text{Numerator}}{\text{Denominator}} \right) \times 100 
 $$
  
