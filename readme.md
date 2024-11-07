@@ -1,4 +1,4 @@
-# A structured approach to build expertise in aptitude, which will help you systematically progress from foundational concepts to advanced problem-solving:
+`A structured approach to build expertise in aptitude, which will help you systematically progress from foundational concepts to advanced problem-solving:`
 
 1. **Basic Foundations**  
 - **Arithmetic Basics** : Start with fundamental operations (addition, subtraction, multiplication, division).
