@@ -174,7 +174,7 @@ Simplify 4:6 to get 2:3, so yes, they are equivalent.
     - Solution:
 
 $$
- 25% = \frac{25}{100} = \frac{1}{4} \Rightarrow \text{Ratio} = 1 : 4 
+ 25\% = \frac{25}{100} = \frac{1}{4} \Rightarrow \text{Ratio} = 1 : 4 
 $$
  
 2. **Ratio to Percentage Conversion**  
@@ -189,7 +189,7 @@ $$
 3. **Combining Ratios and Percentage Increases**  
   - **Example** : A mix contains ingredients in the ratio 2:3. If the quantity of the second ingredient is increased by 20%, what is the new ratio? 
     - Solution:
-If initial amounts are $$2x$$ and $$3x$$, increasing $$3x$$ by 20% gives:
+If initial amounts are $2x$ and $3x$, increasing $3x$ by 20% gives:
 
 $$
  3x \times 1.2 = 3.6x 
