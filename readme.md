@@ -42,18 +42,15 @@ $$
  \text{Percentage} = \left( \frac{\text{Part}}{\text{Whole}} \right) \times 100 
 $$
 **Common Percentage Formulas**  
-1. **Finding a Percentage of a Number** :
-$$
+1. **Finding a Percentage of a Number** :$$
  \text{Result} = \text{Number} \times \left( \frac{\text{Percentage}}{100} \right) 
 $$
  
-2. **Percentage Increase or Decrease** :
-$$
+2. **Percentage Increase or Decrease** :$$
  \text{Percentage Change} = \left( \frac{\text{Difference}}{\text{Original Value}} \right) \times 100 
 $$
  
-3. **Converting Fractions to Percentages** :
-$$
+3. **Converting Fractions to Percentages** :$$
  \text{Percentage} = \left( \frac{\text{Numerator}}{\text{Denominator}} \right) \times 100 
 $$
  
@@ -64,21 +61,21 @@ $$
 
 **Types of Percentage Questions**  
 1. **Finding a Percentage of a Given Value**  
-  - **Example** : What is 20\% of 150? 
+  - **Example** : What is 20% of 150? 
     - Solution:
 $$
  20\% \text{ of } 150 = 150 \times \frac{20}{100} = 30 
 $$
  
 2. **Percentage Increase/Decrease**  
-  - **Example** : A product price increases from \$200 to \$250. What is the percentage increase? 
+  - **Example** : A product price increases from $200 to $250. What is the percentage increase? 
     - Solution:
 $$
  \text{Percentage Increase} = \left( \frac{250 - 200}{200} \right) \times 100 = 25\% 
 $$
  
 3. **Successive Percentage Changes**  
-  - **Example** : If a population grows by 10\% in the first year and 20\% in the second year, what is the total percentage increase? 
+  - **Example** : If a population grows by 10% in the first year and 20% in the second year, what is the total percentage increase? 
     - Solution: Use the formula for successive changes:
 $$
  \text{Total Change} = a + b + \frac{a \cdot b}{100} 
@@ -128,7 +125,7 @@ $$
 $$
  
 4. **Dividing Amounts by Ratios**  
-  - **Example** : Divide \$150 into a ratio of 2:3. 
+  - **Example** : Divide $150 into a ratio of 2:3. 
     - Solution: Find the sum of the parts:
 $$
  2 + 3 = 5 
@@ -153,7 +150,7 @@ Simplify 4:6 to get 2:3, so yes, they are equivalent.
 
 **Combined Questions on Percentages and Ratios**  
 1. **Percentage as a Ratio**  
-  - **Example** : Convert 25\% to a ratio. 
+  - **Example** : Convert 25% to a ratio. 
     - Solution:
 $$
  25\% = \frac{25}{100} = \frac{1}{4} \Rightarrow \text{Ratio} = 1 : 4 
@@ -168,14 +165,14 @@ $$
 $$
  
 3. **Combining Ratios and Percentage Increases**  
-  - **Example** : A mix contains ingredients in the ratio 2:3. If the quantity of the second ingredient is increased by 20\%, what is the new ratio? 
+  - **Example** : A mix contains ingredients in the ratio 2:3. If the quantity of the second ingredient is increased by 20%, what is the new ratio? 
     - Solution:
-If initial amounts are $2x$ and $3x$, increasing $3x$ by 20\% gives:
+If initial amounts are $$2x$$ and $$3x$$, increasing $$3x$$ by 20% gives:
 $$
  3x \times 1.2 = 3.6x 
 $$
 
-The new ratio is $2x : 3.6x = 5 : 9$.
+The new ratio is $$2x : 3.6x = 5 : 9$$.
 
 
 ---
