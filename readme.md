@@ -73,7 +73,7 @@ $$
     - Solution:
 
 $$
- 20\% \text{ of } 150 = 150 \times \frac{20}{100} = 30 
+ 20\text{ percent} \text{ of } 150 = 150 \times \frac{20}{100} = 30 
 $$
  
 2. **Percentage Increase/Decrease**  
@@ -81,7 +81,7 @@ $$
     - Solution:
 
 $$
- \text{Percentage Increase} = \left( \frac{250 - 200}{200} \right) \times 100 = 25\% 
+ \text{Percentage Increase} = \left( \frac{250 - 200}{200} \right) \times 100 = 25\text{ percent} 
 $$
  
 3. **Successive Percentage Changes**  
@@ -92,10 +92,10 @@ $$
  \text{Total Change} = a + b + \frac{a \cdot b}{100} 
 $$
 
-Here, $$a = 10\%$$ and $$b = 20\%$$:
+Here, $$a = 10\text{ percent}$$ and $$b = 20\text{ percent}$$:
 
 $$
- = 10 + 20 + \frac{10 \cdot 20}{100} = 32\% 
+ = 10 + 20 + \frac{10 \cdot 20}{100} = 32\text{ percent} 
 $$
  
 4. **Finding the Original Number**  
@@ -174,7 +174,7 @@ Simplify 4:6 to get 2:3, so yes, they are equivalent.
     - Solution:
 
 $$
- 25\% = \frac{25}{100} = \frac{1}{4} \Rightarrow \text{Ratio} = 1 : 4 
+ 25\text{ percent} = \frac{25}{100} = \frac{1}{4} \Rightarrow \text{Ratio} = 1 : 4 
 $$
  
 2. **Ratio to Percentage Conversion**  
@@ -183,7 +183,7 @@ $$
 For each part in the ratio:
 
 $$
- \frac{3}{5} \times 100 = 60\% \quad \text{and} \quad \frac{2}{5} \times 100 = 40\% 
+ \frac{3}{5} \times 100 = 60\text{ percent} \quad \text{and} \quad \frac{2}{5} \times 100 = 40\text{ percent} 
 $$
  
 3. **Combining Ratios and Percentage Increases**  
