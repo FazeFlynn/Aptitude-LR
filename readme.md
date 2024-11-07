@@ -38,22 +38,26 @@
 
 **1. Percentages** **Definition and Formula**  
 - **Percentage** : A way to express a number as a fraction of 100.
+
 $$
  \text{Percentage} = \left( \frac{\text{Part}}{\text{Whole}} \right) \times 100 
 $$
 
 **Common Percentage Formulas**  
 1. **Finding a Percentage of a Number** :
+
 $$
 \text{Result} = \text{Number} \times \left( \frac{\text{Percentage}}{100} \right) 
 $$
  
 2. **Percentage Increase or Decrease** :
+
 $$
  \text{Percentage Change} = \left( \frac{\text{Difference}}{\text{Original Value}} \right) \times 100 
 $$
  
 3. **Converting Fractions to Percentages** :
+
 $$
  \text{Percentage} = \left( \frac{\text{Numerator}}{\text{Denominator}} \right) \times 100 
 $$
@@ -67,13 +71,15 @@ $$
 1. **Finding a Percentage of a Given Value**  
   - **Example** : What is 20% of 150? 
     - Solution:
+
 $$
  20\% \text{ of } 150 = 150 \times \frac{20}{100} = 30 
 $$
  
 2. **Percentage Increase/Decrease**  
-  - **Example** : A product price increases from $200 to $250. What is the percentage increase? 
+  - **Example** : A product price increases from \$200 to \$250. What is the percentage increase? 
     - Solution:
+
 $$
  \text{Percentage Increase} = \left( \frac{250 - 200}{200} \right) \times 100 = 25\% 
 $$
@@ -81,11 +87,13 @@ $$
 3. **Successive Percentage Changes**  
   - **Example** : If a population grows by 10% in the first year and 20% in the second year, what is the total percentage increase? 
     - Solution: Use the formula for successive changes:
+
 $$
  \text{Total Change} = a + b + \frac{a \cdot b}{100} 
 $$
 
 Here, $$a = 10\%$$ and $$b = 20\%$$:
+
 $$
  = 10 + 20 + \frac{10 \cdot 20}{100} = 32\% 
 $$
@@ -93,6 +101,7 @@ $$
 4. **Finding the Original Number**  
   - **Example** : If 40% of a number is 80, what is the original number? 
     - Solution:
+
 $$
  \text{Original Number} = \frac{80}{0.4} = 200 
 $$
@@ -102,13 +111,16 @@ $$
 
 **2. Ratios** **Definition and Formula**  
 - **Ratio** : A comparison of two quantities by division.
+
 $$
  \text{Ratio of A to B} = A : B = \frac{A}{B} 
 $$
+
 **Types of Ratio Questions**  
 1. **Simplifying Ratios**  
   - **Example** : Simplify the ratio 15:25. 
     - Solution:
+
 $$
  \frac{15}{25} = \frac{3}{5} \Rightarrow \text{Ratio} = 3 : 5 
 $$
@@ -116,6 +128,7 @@ $$
 2. **Ratio to Fraction Conversion**  
   - **Example** : Express the ratio 3:4 as a fraction. 
     - Solution:
+
 $$
  \frac{3}{3 + 4} = \frac{3}{7} \quad \text{and} \quad \frac{4}{7} 
 $$
@@ -124,6 +137,7 @@ $$
   - **Example** : If 3:5 = 9
 , find X. 
     - Solution:
+
 $$
  \frac{3}{5} = \frac{9}{X} \Rightarrow X = \frac{9 \cdot 5}{3} = 15 
 $$
@@ -131,11 +145,13 @@ $$
 4. **Dividing Amounts by Ratios**  
   - **Example** : Divide $150 into a ratio of 2:3. 
     - Solution: Find the sum of the parts:
+
 $$
  2 + 3 = 5 
 $$
 
 Then,
+
 $$
  \text{Amount for 2} = \frac{2}{5} \times 150 = 60 
 $$
@@ -156,6 +172,7 @@ Simplify 4:6 to get 2:3, so yes, they are equivalent.
 1. **Percentage as a Ratio**  
   - **Example** : Convert 25% to a ratio. 
     - Solution:
+
 $$
  25\% = \frac{25}{100} = \frac{1}{4} \Rightarrow \text{Ratio} = 1 : 4 
 $$
@@ -164,6 +181,7 @@ $$
   - **Example** : Convert 3:2 to a percentage. 
     - Solution:
 For each part in the ratio:
+
 $$
  \frac{3}{5} \times 100 = 60\% \quad \text{and} \quad \frac{2}{5} \times 100 = 40\% 
 $$
@@ -172,6 +190,7 @@ $$
   - **Example** : A mix contains ingredients in the ratio 2:3. If the quantity of the second ingredient is increased by 20%, what is the new ratio? 
     - Solution:
 If initial amounts are $$2x$$ and $$3x$$, increasing $$3x$$ by 20% gives:
+
 $$
  3x \times 1.2 = 3.6x 
 $$
