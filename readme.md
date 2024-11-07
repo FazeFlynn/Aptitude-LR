@@ -174,7 +174,7 @@ Simplify 4:6 to get 2:3, so yes, they are equivalent.
     - Solution:
 
 $$
- 25\% = \frac{25}{100} = \frac{1}{4} \Rightarrow \text{Ratio} = 1 : 4 
+ 25% = \frac{25}{100} = \frac{1}{4} \Rightarrow \text{Ratio} = 1 : 4 
 $$
  
 2. **Ratio to Percentage Conversion**  
