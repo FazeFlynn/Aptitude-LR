@@ -491,13 +491,14 @@ $$
 
 2. **What is the 10th term in the arithmetic series: $3, 7, 11, 15, \ldots$?**
    - Solution:
+   
 $$
 a_n = a_1 + (n-1)d = 3 + (10-1) \times 4 = 3 + 36 = 39
 $$
 
 3. **Find the sum of the first 5 terms in the geometric series: $2, 6, 18, 54, \ldots$**
    - Solution:
-   
+
 $$
 S_n = a \frac{(1 - r^n)}{1 - r} = 2 \frac{(1 - 3^5)}{1 - 3} = 2 \frac{(1 - 243)}{-2} = 2 \times 121 = 242
 $$
