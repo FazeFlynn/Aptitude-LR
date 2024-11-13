@@ -594,13 +594,13 @@ $$
 - **Discount Percentage (Discount\%)**:
 
 $$
-\text{Discount\$} = \left(\frac{\text{Discount}}{\text{MP}}\right) \times 100
+\text{Discount\%} = \left(\frac{\text{Discount}}{\text{MP}}\right) \times 100
 $$
 
 - **Selling Price after Discount**:
 
 $$
-\text{SP} = \text{MP} \times \left(1 - \frac{\text{Discount}}{100}\right)
+\text{SP} = \text{MP} \times \left(1 - \frac{\text{Discount\%}}{100}\right)
 $$
 
 ---
