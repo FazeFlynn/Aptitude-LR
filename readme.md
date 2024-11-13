@@ -92,7 +92,7 @@ $$
  \text{Total Change} = a + b + \frac{a \cdot b}{100} 
 $$
 
-Here, $$a = 10\text{ percent}$$ and $$b = 20\text{ percent}$$:
+Here,$$a = 10\text{ percent}$$ and$$b = 20\text{ percent}$$:
 
 $$
  = 10 + 20 + \frac{10 \cdot 20}{100} = 32\text{ percent} 
@@ -391,3 +391,155 @@ $$
 $$
 
 ---
+
+
+# Number Series:
+
+A **number series** is a sequence of numbers arranged in a particular order based on a specific rule or pattern. Identifying the rule governing the series is key to solving number series problems.
+
+### **2. Common Types of Number Series**
+
+1. **Arithmetic Series**: The difference between consecutive terms is constant.
+   - **Formula**:
+
+$$
+a_n = a_1 + (n-1)d
+$$
+
+- $a_n$: $n^{th}$ term
+- $a_1$: First term
+- $d$: Common difference
+
+   - **Example**: $2, 5, 8, 11, 14, \ldots$
+     - Rule: Add $3$ (common difference)
+     - Next term: $14 + 3 = 17$
+
+2. **Geometric Series**: The ratio between consecutive terms is constant.
+   - **Formula**:
+
+$$
+     a_n = a_1 \times r^{(n-1)}
+$$
+
+- $r$: Common ratio
+
+   - **Example**: $3, 6, 12, 24, \ldots$
+     - Rule: Multiply by $2$
+     - Next term: $24 \times 2 = 48$
+
+3. **Fibonacci Series**: Each term is the sum of the two preceding terms.
+   - **Example**: $0, 1, 1, 2, 3, 5, 8, \ldots$
+     - Rule: Add the previous two terms
+     - Next term: $5 + 8 = 13$
+
+4. **Square Series**: Each term is a square of a natural number.
+   - **Example**: $1, 4, 9, 16, 25, \ldots$
+     - Rule: $n^2$
+     - Next term: $6^2 = 36$
+
+5. **Cube Series**: Each term is a cube of a natural number.
+   - **Example**: $1, 8, 27, 64, \ldots$
+     - Rule: $n^3$
+     - Next term: $5^3 = 125$
+
+6. **Triangular Number Series**: Each term is the sum of the first $n$ natural numbers.
+   - **Formula**:
+$$
+     T_n = \frac{n(n+1)}{2}
+$$
+
+   - **Example**: $1, 3, 6, 10, 15, \ldots$
+     - Rule: $T_n$
+     - Next term: $T_6 = \frac{6 \times 7}{2} = 21$
+
+### **3. Mixed Series Patterns**
+
+1. **Alternating Series**:
+   - **Example**: $2, 4, 8, 7, 14, 13, \ldots$
+     - Rule: Double the term, then subtract $1$
+     - Next term: $13 \times 2 = 26$
+
+2. **Increasing and Decreasing Series**:
+   - **Example**: $100, 90, 95, 85, 90, 80, \ldots$
+     - Rule: Decrease by $10$, then increase by $5$
+     - Next term: $80 + 5 = 85$
+
+3. **Complex Series (Combination of Two Rules)**:
+   - **Example**: $1, 2, 6, 7, 21, 22, \ldots$
+     - Rule: Multiply by $3$ for odd positions and add $1$ for even positions
+     - Next term: $22 \times 3 = 66$
+
+---
+
+### **4. Formulas for Number Series**
+
+1. **Sum of Arithmetic Series**:
+$$
+   S_n = \frac{n}{2} (2a + (n-1)d)
+$$
+
+2. **Sum of Geometric Series**:
+$$
+   S_n = a \frac{(1 - r^n)}{1 - r} \quad \text{(if $r < 1$)}
+$$
+
+3. **Nth Term of Fibonacci Series**:
+$$
+   F_n = F_{n-1} + F_{n-2}
+$$
+
+4. **Nth Square Number**:
+$$
+   n^2
+$$
+
+5. **Nth Cube Number**:
+$$
+   n^3
+$$
+
+6. **Triangular Number Formula**:
+$$
+   T_n = \frac{n(n+1)}{2}
+$$
+
+---
+
+### **5. Example Problems**
+
+1. **Find the next term in the series: $5, 10, 20, 40, \ldots$**
+   - Solution: This is a geometric series with a common ratio of $2$.
+   - Next term: $40 \times 2 = 80$
+
+2. **What is the 10th term in the arithmetic series: $3, 7, 11, 15, \ldots$?**
+   - Solution:
+$$
+     a_n = a_1 + (n-1)d = 3 + (10-1) \times 4 = 3 + 36 = 39
+$$
+
+3. **Find the sum of the first 5 terms in the geometric series: $2, 6, 18, 54, \ldots$**
+   - Solution:
+$$
+     S_n = a \frac{(1 - r^n)}{1 - r} = 2 \frac{(1 - 3^5)}{1 - 3} = 2 \frac{(1 - 243)}{-2} = 2 \times 121 = 242
+$$
+
+4. **Find the missing term in the series: $1, 4, 9, \_, 25$**
+   - Solution: This is a square series.
+   - Missing term: $4^2 = 16$
+
+5. **Identify the rule and find the next term: $2, 6, 12, 20, \ldots$**
+   - Solution: The series increases by $4, 6, 8, \ldots$ (increasing by $2$ each time).
+   - Next term: $20 + 10 = 30$
+
+---
+
+### **6. Practice Questions**
+
+1. Find the next term: $8, 16, 24, 32, \ldots$
+2. What is the 15th term of the series: $5, 10, 15, 20, \ldots$?
+3. Identify the rule and complete the series: $3, 12, 48, 192, \ldots$
+4. Determine the missing term: $1, 1, 2, 3, 5, \_, 13$
+5. What is the sum of the first $6$ terms of the arithmetic series: $2, 5, 8, 11, \ldots$?
+
+---
+
