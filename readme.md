@@ -711,7 +711,7 @@ $$
    - **Work** = **Time** × **Efficiency**
 
 4. **Combined Work Formula**:
-   - If two persons $ A $ and $ B $ can complete a job in $ x $ and $ y $ days respectively, then working together, they will complete the job in:
+   - If two persons $A$ and $B$ can complete a job in $ x $ and $ y $ days respectively, then working together, they will complete the job in:
 
 $$
 \text{Time taken} = \frac{xy}{x + y}
@@ -725,7 +725,7 @@ $$
 $$
 
 6. **Work Done by Multiple People**:
-   - If $ A $ can do a job in $ m $ days and $ B $ can do it in $ n $ days, then:
+   - If $A$ can do a job in $ m $ days and $B$ can do it in $ n $ days, then:
 
 $$
 \text{Total work done per day} = \frac{1}{m} + \frac{1}{n}
@@ -746,17 +746,17 @@ $$
   - Work done in 1 day = $\frac{1}{10}$
 
 #### **Example 2: Combined Work**
-- **Problem**: $ A $ can complete a job in 5 days and $ B $ can complete the same job in 10 days. How long will it take for both working together?
+- **Problem**: $A$ can complete a job in 5 days and $B$ can complete the same job in 10 days. How long will it take for both working together?
 - **Solution**:
   - Combined time = $\frac{5 \times 10}{5 + 10} = \frac{50}{15} = 3.33$ days
 
 #### **Example 3: Efficiency Problem**
-- **Problem**: $ A $ is 25% more efficient than $ B $. If $ B $ can complete the job in 20 days, how long will it take $ A $ to complete the job?
+- **Problem**: $A$ is 25% more efficient than $B$. If $B$ can complete the job in 20 days, how long will it take $A$ to complete the job?
 - **Solution**:
-  - $ A $’s time = $\frac{100}{125} \times 20 = 16$ days
+  - $A$’s time = $\frac{100}{125} \times 20 = 16$ days
 
 #### **Example 4: Work Done by Multiple People**
-- **Problem**: $ A $ can do a job in 6 days, $ B $ in 8 days, and $ C $ in 12 days. How long will it take for all three to complete the job together?
+- **Problem**: $A$ can do a job in 6 days, $B$ in 8 days, and $C$ in 12 days. How long will it take for all three to complete the job together?
 - **Solution**:
   - Work done per day = $\frac{1}{6} + \frac{1}{8} + \frac{1}{12} = \frac{4 + 3 + 2}{24} = \frac{9}{24} = \frac{3}{8}$
   - Total time = $\frac{8}{3} = 2.67$ days
@@ -769,14 +769,14 @@ $$
   - Share = $\frac{600}{5} = ₹120$
 
 #### **Example 6: Work with a Delay**
-- **Problem**: $ A $ can complete a job in 10 days. $ B $ joins $ A $ after 5 days. Together they complete the job in 2 more days. How long would it take $ B $ alone to complete the job?
+- **Problem**: $A$ can complete a job in 10 days. $B$ joins $A$ after 5 days. Together they complete the job in 2 more days. How long would it take $B$ alone to complete the job?
 - **Solution**:
-  - Work done by $ A $ in 5 days = $\frac{5}{10} = 0.5$
+  - Work done by $A$ in 5 days = $\frac{5}{10} = 0.5$
   - Remaining work = $1 - 0.5 = 0.5$
-  - $ A $ and $ B $ complete this 0.5 work in 2 days, so combined efficiency = $\frac{0.5}{2} = 0.25$
-  - Efficiency of $ A $ = $\frac{1}{10} = 0.1$
-  - Efficiency of $ B $ = $0.25 - 0.1 = 0.15$
-  - Time taken by $ B $ alone = $\frac{1}{0.15} = 6.67$ days
+  - $A$ and $B$ complete this 0.5 work in 2 days, so combined efficiency = $\frac{0.5}{2} = 0.25$
+  - Efficiency of $A$ = $\frac{1}{10} = 0.1$
+  - Efficiency of $B$ = $0.25 - 0.1 = 0.15$
+  - Time taken by $B$ alone = $\frac{1}{0.15} = 6.67$ days
 
 #### **Example 7: Pipes and Cisterns Problem**
 - **Problem**: A pipe can fill a tank in 12 hours, while a drain can empty it in 20 hours. If both are open, how long will it take to fill the tank?
@@ -788,10 +788,10 @@ $$
 
 ### **4. Practice Problems**
 
-1. $ A $ can complete a job in 15 days and $ B $ in 20 days. If they work together, how many days will they take?
-2. $ C $ is 40% more efficient than $ D $. If $ D $ can finish a task in 25 days, how long will it take $ C $ to finish it?
-3. $ A $ and $ B $ together can complete a job in 8 days. If $ A $ alone can complete it in 12 days, how long will $ B $ take alone?
+1. $A$ can complete a job in 15 days and $B$ in 20 days. If they work together, how many days will they take?
+2. $C$ is 40% more efficient than $D$. If $D$ can finish a task in 25 days, how long will it take $C$ to finish it?
+3. $A$ and $B$ together can complete a job in 8 days. If $A$ alone can complete it in 12 days, how long will $B$ take alone?
 4. A pipe can fill a tank in 6 hours. Another pipe can fill it in 9 hours. How long will both pipes take together?
-5. $ A $ can do a job in 10 days, $ B $ in 12 days, and $ C $ in 15 days. They start working together but $ A $ leaves after 3 days. How long will it take for $ B $ and $ C $ to complete the remaining work?
+5. $A$ can do a job in 10 days, $B$ in 12 days, and $C$ in 15 days. They start working together but $A$ leaves after 3 days. How long will it take for $B$ and $C$ to complete the remaining work?
 
 ---
