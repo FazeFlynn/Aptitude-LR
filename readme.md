@@ -418,7 +418,7 @@ $$
    - **Formula**:
 
 $$
-     a_n = a_1 \times r^{(n-1)}
+a_n = a_1 \times r^{(n-1)}
 $$
 
 - $r$: Common ratio
@@ -444,8 +444,9 @@ $$
 
 6. **Triangular Number Series**: Each term is the sum of the first $n$ natural numbers.
    - **Formula**:
+
 $$
-     T_n = \frac{n(n+1)}{2}
+T_n = \frac{n(n+1)}{2}
 $$
 
    - **Example**: $1, 3, 6, 10, 15, \ldots$
@@ -473,35 +474,12 @@ $$
 
 ### **4. Formulas for Number Series**
 
-1. **Sum of Arithmetic Series**:
-$$
-   S_n = \frac{n}{2} (2a + (n-1)d)
-$$
-
-2. **Sum of Geometric Series**:
-$$
-   S_n = a \frac{(1 - r^n)}{1 - r} \quad \text{(if $r < 1$)}
-$$
-
-3. **Nth Term of Fibonacci Series**:
-$$
-   F_n = F_{n-1} + F_{n-2}
-$$
-
-4. **Nth Square Number**:
-$$
-   n^2
-$$
-
-5. **Nth Cube Number**:
-$$
-   n^3
-$$
-
-6. **Triangular Number Formula**:
-$$
-   T_n = \frac{n(n+1)}{2}
-$$
+1. **Sum of Arithmetic Series**: $S_n = \frac{n}{2} (2a + (n-1)d)$
+2. **Sum of Geometric Series**: $S_n = a \frac{(1 - r^n)}{1 - r} \quad \text{(if r < 1)}$
+3. **Nth Term of Fibonacci Series**: $F_n = F_{n-1} + F_{n-2}$
+4. **Nth Square Number**: $n^2$
+5. **Nth Cube Number**: $n^3$
+6. **Triangular Number Formula**: $T_n = \frac{n(n+1)}{2}$
 
 ---
 
@@ -514,13 +492,14 @@ $$
 2. **What is the 10th term in the arithmetic series: $3, 7, 11, 15, \ldots$?**
    - Solution:
 $$
-     a_n = a_1 + (n-1)d = 3 + (10-1) \times 4 = 3 + 36 = 39
+a_n = a_1 + (n-1)d = 3 + (10-1) \times 4 = 3 + 36 = 39
 $$
 
 3. **Find the sum of the first 5 terms in the geometric series: $2, 6, 18, 54, \ldots$**
    - Solution:
+   
 $$
-     S_n = a \frac{(1 - r^n)}{1 - r} = 2 \frac{(1 - 3^5)}{1 - 3} = 2 \frac{(1 - 243)}{-2} = 2 \times 121 = 242
+S_n = a \frac{(1 - r^n)}{1 - r} = 2 \frac{(1 - 3^5)}{1 - 3} = 2 \frac{(1 - 243)}{-2} = 2 \times 121 = 242
 $$
 
 4. **Find the missing term in the series: $1, 4, 9, \_, 25$**
