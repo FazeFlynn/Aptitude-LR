@@ -600,7 +600,7 @@ $$
 - **Selling Price after Discount**:
 
 $$
-\text{SP} = \text{MP} \times \left(1 - \frac{\text{Discount\$}}{100}\right)
+\text{SP} = \text{MP} \times \left(1 - \frac{\text{Discount}}{100}\right)
 $$
 
 ---
