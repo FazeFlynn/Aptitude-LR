@@ -712,7 +712,7 @@ $$
 
 4. **Combined Work Formula**:
    - If two persons $A$ and $B$ can complete a job in $x$ and $y$ days respectively, then working together, they will complete the job in:
-
+ 
 $$
 \text{Time taken} = \frac{xy}{x + y}
 $$
@@ -793,5 +793,203 @@ $$
 3. $A$ and $B$ together can complete a job in 8 days. If $A$ alone can complete it in 12 days, how long will $B$ take alone?
 4. A pipe can fill a tank in 6 hours. Another pipe can fill it in 9 hours. How long will both pipes take together?
 5. $A$ can do a job in 10 days, $B$ in 12 days, and $C$ in 15 days. They start working together but $A$ leaves after 3 days. How long will it take for $B$ and $C$ to complete the remaining work?
+
+---
+
+# Simple And Compund Interest:
+
+Simple and Compound Interest problems are a fundamental part of aptitude tests. Let's dive into all the formulas, concepts, and examples you need.
+
+### **1. Key Concepts and Definitions**
+
+- **Principal (P)**: The initial amount of money borrowed or invested.
+- **Rate of Interest (R)**: The percentage of interest charged per time period (usually annually).
+- **Time (T)**: The duration for which the money is borrowed or invested.
+- **Amount (A)**: The total money after adding interest (Principal + Interest).
+- **Interest (I)**: The additional money earned or paid on the principal.
+
+### **2. Simple Interest (SI)**
+
+Simple Interest is calculated on the original principal throughout the entire period.
+
+#### **Formula for Simple Interest**:
+
+$$
+\text{SI} = \frac{P \times R \times T}{100}
+$$
+
+#### **Formula for Total Amount**:
+
+$$
+\text{A} = P + \text{SI}
+$$
+
+### **Example Problems on Simple Interest**
+
+#### **Example 1: Basic SI Calculation**
+- **Problem**: Find the simple interest on a principal of ₹5000 at a rate of 5% per annum for 3 years.
+- **Solution**:
+
+$$
+\text{SI} = \frac{5000 \times 5 \times 3}{100} = ₹750
+$$
+
+$$
+\text{Amount (A)} = 5000 + 750 = ₹5750
+$$
+
+#### **Example 2: Finding Principal**
+- **Problem**: If the simple interest for 2 years at a rate of 6% per annum is ₹240, find the principal.
+- **Solution**:
+
+$$
+\text{SI} = \frac{P \times R \times T}{100}
+$$
+
+$$
+240 = \frac{P \times 6 \times 2}{100}
+$$
+
+$$
+P = \frac{240 \times 100}{12} = ₹2000
+$$
+
+#### **Example 3: Finding Rate of Interest**
+- **Problem**: A principal of ₹1500 amounts to ₹1800 in 2 years. Find the rate of interest.
+- **Solution**:
+
+$$
+\text{SI} = 1800 - 1500 = ₹300
+$$
+
+$$
+300 = \frac{1500 \times R \times 2}{100}
+$$
+
+$$
+R = \frac{300 \times 100}{1500 \times 2} = 10\%
+$$
+
+---
+
+### **3. Compound Interest (CI)**
+
+Compound Interest is calculated on the principal as well as the accumulated interest from previous periods.
+
+#### **Formula for Compound Interest**:
+
+$$
+\text{CI} = P \left(1 + \frac{R}{100}\right)^{T} - P
+$$
+
+#### **Formula for Total Amount**:
+
+$$
+\text{A} = P \left(1 + \frac{R}{100}\right)^{T}
+$$
+
+#### **Formula for Compound Interest Compounded $n$ Times per Year**:
+
+$$
+\text{A} = P \left(1 + \frac{R}{100n}\right)^{nT}
+$$
+
+### **Example Problems on Compound Interest**
+
+#### **Example 1: Basic CI Calculation**
+- **Problem**: Calculate the compound interest on ₹4000 at a rate of 10% per annum for 2 years.
+- **Solution**:
+
+$$
+\text{A} = 4000 \left(1 + \frac{10}{100}\right)^{2}
+$$
+
+$$
+\text{A} = 4000 \times 1.1 \times 1.1 = 4000 \times 1.21 = ₹4840
+$$
+
+$$
+\text{CI} = 4840 - 4000 = ₹840
+$$
+
+#### **Example 2: Finding Principal in CI**
+- **Problem**: The compound interest on a certain principal at 8% per annum for 3 years is ₹520. Find the principal.
+- **Solution**:
+
+$$
+\text{A} = P \left(1 + \frac{8}{100}\right)^{3}
+$$
+
+Let the principal be $P$.
+
+$$
+\text{A} - P = 520
+$$
+
+Solving for $P$ using trial, approximation, or logarithmic methods can be applied.
+
+#### **Example 3: CI Compounded Semi-Annually**
+- **Problem**: Calculate the amount on ₹5000 at 12% per annum for 1 year if the interest is compounded semi-annually.
+- **Solution**:
+
+$$
+\text{A} = 5000 \left(1 + \frac{12}{2 \times 100}\right)^{2 \times 1}
+$$
+
+$$
+\text{A} = 5000 \left(1 + \frac{6}{100}\right)^{2}
+$$
+
+$$
+\text{A} = 5000 \times 1.06 \times 1.06 = ₹5618
+$$
+
+$$
+\text{CI} = 5618 - 5000 = ₹618
+$$
+
+---
+
+### **4. Difference Between Simple Interest and Compound Interest**
+
+For a given principal, rate, and time:
+
+1. **Simple Interest**:
+   - Does not change over time; interest remains constant each year.
+2. **Compound Interest**:
+   - Increases as it is calculated on the principal and accumulated interest.
+
+#### **Formula for Difference (CI - SI)**:
+
+$$
+\text{Difference} = P \left(\left(1 + \frac{R}{100}\right)^{T} - 1 - \frac{R \times T}{100}\right)
+$$
+
+#### **Example**:
+- **Problem**: Calculate the difference between CI and SI for a principal of ₹2000 at a rate of 5% per annum for 2 years.
+- **Solution**:
+
+$$
+\text{SI} = \frac{2000 \times 5 \times 2}{100} = ₹200
+$$
+$$
+\text{A (CI)} = 2000 \left(1 + \frac{5}{100}\right)^{2} = 2000 \times 1.1025 = ₹2205
+$$
+$$
+\text{CI} = 2205 - 2000 = ₹205
+$$
+$$
+\text{Difference} = 205 - 200 = ₹5
+$$
+
+--
+
+### **5. Practice Problems**
+
+1. Find the simple interest on ₹7500 at 6% per annum for 4 years.
+2. Calculate the compound interest on ₹12000 at 8% per annum for 3 years.
+3. A sum of ₹5000 is invested at 10% per annum compounded annually. What will be the amount after 2 years?
+4. If the simple interest on a sum for 5 years at 7% per annum is ₹875, find the principal.
+5. Determine the difference between SI and CI on ₹10000 at 5% per annum for 2 years.
 
 ---
