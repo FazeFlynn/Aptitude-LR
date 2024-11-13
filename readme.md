@@ -195,7 +195,183 @@ $$
  3x \times 1.2 = 3.6x 
 $$
 
-The new ratio is $$2x : 3.6x = 5 : 9$$.
+The new ratio is $2x : 3.6x = 5 : 9$.
 
 
 ---
+
+
+
+# **1. Fractions**
+
+### **Definition and Types**
+- **Fraction**: A fraction represents a part of a whole and is expressed as:
+
+  $$
+  \text{Fraction} = \frac{\text{Numerator}}{\text{Denominator}}
+  $$
+
+  - **Proper Fraction**: Numerator < Denominator (e.g., $\(\frac{3}{4}\)$)
+  - **Improper Fraction**: Numerator ≥ Denominator (e.g., $\(\frac{7}{5}\)$)
+  - **Mixed Fraction**: Combination of a whole number and a proper fraction (e.g., $\(2\frac{1}{3}\)$)
+
+### **Basic Operations with Fractions**
+1. **Addition and Subtraction**:  
+   To add or subtract fractions, make the denominators equal.
+   - **Example**: \(\frac{1}{3} + \frac{1}{6}\)
+     - Solution:
+       $$
+       \text{LCM of 3 and 6 is 6} \Rightarrow \frac{2}{6} + \frac{1}{6} = \frac{3}{6} = \frac{1}{2}
+       $$
+
+2. **Multiplication**:
+   Multiply the numerators and denominators directly.
+   - **Example**: \(\frac{2}{5} \times \frac{3}{4}\)
+     - Solution:
+       $$
+       \frac{2 \times 3}{5 \times 4} = \frac{6}{20} = \frac{3}{10}
+       $$
+
+3. **Division**:
+   Multiply by the reciprocal of the second fraction.
+   - **Example**: \(\frac{3}{7} \div \frac{2}{5}\)
+     - Solution:
+       $$
+       \frac{3}{7} \times \frac{5}{2} = \frac{15}{14}
+       $$
+
+4. **Converting Mixed Fractions to Improper Fractions**:
+   - **Example**: Convert \(3\frac{2}{5}\) to an improper fraction.
+     - Solution:
+       $$
+       3\frac{2}{5} = \frac{3 \times 5 + 2}{5} = \frac{17}{5}
+       $$
+
+### **Types of Fraction Questions**
+1. **Simplifying Fractions**:
+   - **Example**: Simplify \(\frac{36}{48}\).
+     - Solution:
+       $$
+       \frac{36 \div 12}{48 \div 12} = \frac{3}{4}
+       $$
+
+2. **Comparing Fractions**:
+   - **Example**: Which is larger: \(\frac{5}{6}\) or \(\frac{7}{9}\)?
+     - Solution: Find a common denominator (18):
+       $$
+       \frac{5 \times 3}{6 \times 3} = \frac{15}{18}, \quad \frac{7 \times 2}{9 \times 2} = \frac{14}{18}
+       $$
+       Hence, \(\frac{5}{6}\) is larger.
+
+3. **Fraction of a Quantity**:
+   - **Example**: What is \(\frac{2}{3}\) of 90?
+     - Solution:
+       $$
+       90 \times \frac{2}{3} = 60
+       $$
+
+---
+
+## **2. Decimals**
+
+### **Definition and Types**
+- **Decimal**: A number expressed in the base-10 system, using a decimal point (e.g., 0.5, 3.14).
+  - **Terminating Decimal**: Finite number of decimal places (e.g., 0.75).
+  - **Non-Terminating, Repeating Decimal**: Infinite decimal places but a repeating pattern (e.g., 0.333...).
+  - **Non-Terminating, Non-Repeating Decimal**: Infinite decimal places without a pattern (e.g., \(\pi = 3.14159...\)).
+
+### **Basic Operations with Decimals**
+1. **Addition and Subtraction**:
+   Align the decimal points before performing the operation.
+   - **Example**: \(3.25 + 1.7\)
+     - Solution:
+       $$
+       3.25 + 1.70 = 4.95
+       $$
+
+2. **Multiplication**:
+   Ignore the decimal points, multiply the numbers, and place the decimal point in the result.
+   - **Example**: \(1.2 \times 0.5\)
+     - Solution:
+       $$
+       12 \times 5 = 60 \Rightarrow 1.2 \times 0.5 = 0.60
+       $$
+
+3. **Division**:
+   Move the decimal point to make the divisor a whole number, then divide.
+   - **Example**: \(3.6 \div 1.2\)
+     - Solution:
+       $$
+       \frac{36}{12} = 3
+       $$
+
+4. **Converting Fractions to Decimals**:
+   Divide the numerator by the denominator.
+   - **Example**: Convert \(\frac{3}{4}\) to a decimal.
+     - Solution:
+       $$
+       3 \div 4 = 0.75
+       $$
+
+5. **Converting Decimals to Fractions**:
+   Write the decimal as a fraction and simplify.
+   - **Example**: Convert 0.125 to a fraction.
+     - Solution:
+       $$
+       0.125 = \frac{125}{1000} = \frac{1}{8}
+       $$
+
+---
+
+### **Types of Decimal Questions**
+
+1. **Comparing Decimals**:
+   - **Example**: Which is greater, 0.45 or 0.405?
+     - Solution: Compare place by place: \(0.45 > 0.405\).
+
+2. **Rounding Decimals**:
+   - **Example**: Round 3.678 to the nearest hundredth.
+     - Solution: \(3.678 \approx 3.68\).
+
+3. **Recurring Decimals**:
+   - **Example**: Express \(0.333...\) as a fraction.
+     - Solution:
+       $$
+       x = 0.333... \Rightarrow 10x = 3.333... \Rightarrow 10x - x = 9x = 3 \Rightarrow x = \frac{1}{3}
+       $$
+
+4. **Decimal of a Percentage**:
+   - **Example**: What is 20% expressed as a decimal?
+     - Solution:
+       $$
+       20\% = \frac{20}{100} = 0.2
+       $$
+
+---
+
+## **Combined Questions on Fractions and Decimals**
+
+1. **Converting a Fractional Quantity to a Decimal**:
+   - **Example**: What is \(\frac{7}{8}\) as a decimal?
+     - Solution:
+       $$
+       7 \div 8 = 0.875
+       $$
+
+2. **Finding Percentage of a Decimal**:
+   - **Example**: What is 15% of 0.8?
+     - Solution:
+       $$
+       0.8 \times \frac{15}{100} = 0.12
+       $$
+
+3. **Solving Equations Involving Fractions and Decimals**:
+   - **Example**: Solve \(0.25x + \frac{1}{2} = 2\).
+     - Solution:
+       $$
+       0.25x = 2 - 0.5 \Rightarrow 0.25x = 1.5 \Rightarrow x = \frac{1.5}{0.25} = 6
+       $$
+
+---
+
+Let me know if you want more detailed explanations or additional practice problems!
