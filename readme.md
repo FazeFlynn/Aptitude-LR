@@ -698,7 +698,7 @@ Work and Time problems are essential in aptitude tests and often require logical
 ### **2. Important Formulas**
 
 1. **Basic Work Formula**:
-   - If a person can complete a job in $ n $ days, then the **work done in 1 day** is:
+   - If a person can complete a job in $n$ days, then the **work done in 1 day** is:
 
 $$
 \text{Work done in 1 day} = \frac{1}{n}
@@ -711,21 +711,21 @@ $$
    - **Work** = **Time** × **Efficiency**
 
 4. **Combined Work Formula**:
-   - If two persons $A$ and $B$ can complete a job in $ x $ and $ y $ days respectively, then working together, they will complete the job in:
+   - If two persons $A$ and $B$ can complete a job in $x$ and $y$ days respectively, then working together, they will complete the job in:
 
 $$
 \text{Time taken} = \frac{xy}{x + y}
 $$
 
 5. **Efficiency and Time Relationship**:
-   - If a person is $ n \% $ more efficient than another person, then the time taken by the efficient person is:
+   - If a person is $n\%$ more efficient than another person, then the time taken by the efficient person is:
 
 $$
 \text{Time taken} = \frac{100}{100 + n} \times \text{Time of less efficient person}
 $$
 
 6. **Work Done by Multiple People**:
-   - If $A$ can do a job in $ m $ days and $B$ can do it in $ n $ days, then:
+   - If $A$ can do a job in $m$ days and $B$ can do it in $n$ days, then:
 
 $$
 \text{Total work done per day} = \frac{1}{m} + \frac{1}{n}
