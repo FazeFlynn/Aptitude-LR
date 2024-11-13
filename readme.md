@@ -1115,7 +1115,7 @@ $$
 **Solution**:
 
 Given:
-- $a = 10 $, $ r = \frac{1}{3}$
+- $a = 10$, $r = \frac{1}{3}$
 
 Since $|r| < 1$, we use the formula for the sum of an infinite GP:
 
