@@ -69,7 +69,7 @@ $$
 
 **Types of Percentage Questions**  
 1. **Finding a Percentage of a Given Value**  
-  - **Example** : What is 20% of 150? 
+  - **Example** : What is 20\% of 150? 
     - Solution:
 
 $$
@@ -85,7 +85,7 @@ $$
 $$
  
 3. **Successive Percentage Changes**  
-  - **Example** : If a population grows by 10% in the first year and 20% in the second year, what is the total percentage increase? 
+  - **Example** : If a population grows by 10\% in the first year and 20\% in the second year, what is the total percentage increase? 
     - Solution: Use the formula for successive changes:
 
 $$
@@ -99,7 +99,7 @@ $$
 $$
  
 4. **Finding the Original Number**  
-  - **Example** : If 40% of a number is 80, what is the original number? 
+  - **Example** : If 40\% of a number is 80, what is the original number? 
     - Solution:
 
 $$
@@ -170,7 +170,7 @@ Simplify 4:6 to get 2:3, so yes, they are equivalent.
 
 **Combined Questions on Percentages and Ratios**  
 1. **Percentage as a Ratio**  
-  - **Example** : Convert 25% to a ratio. 
+  - **Example** : Convert 25\% to a ratio. 
     - Solution:
 
 $$
@@ -187,9 +187,9 @@ $$
 $$
  
 3. **Combining Ratios and Percentage Increases**  
-  - **Example** : A mix contains ingredients in the ratio 2:3. If the quantity of the second ingredient is increased by 20%, what is the new ratio? 
+  - **Example** : A mix contains ingredients in the ratio 2:3. If the quantity of the second ingredient is increased by 20\%, what is the new ratio? 
     - Solution:
-If initial amounts are $2x$ and $3x$, increasing $3x$ by 20% gives:
+If initial amounts are $2x$ and $3x$, increasing $3x$ by 20\% gives:
 
 $$
  3x \times 1.2 = 3.6x 
@@ -355,7 +355,7 @@ x = 0.333... \Rightarrow 10x = 3.333... \Rightarrow 10x - x = 9x = 3 \Rightarrow
 $$
 
 4. **Decimal of a Percentage**:
-   - **Example**: What is 20% expressed as a decimal?
+   - **Example**: What is 20\% expressed as a decimal?
      - Solution:
 
 $$
@@ -375,7 +375,7 @@ $$
 $$
 
 2. **Finding Percentage of a Decimal**:
-   - **Example**: What is 15% of 0.8?
+   - **Example**: What is 15\% of 0.8?
      - Solution:
 
 $$
@@ -491,7 +491,7 @@ $$
 
 2. **What is the 10th term in the arithmetic series: $3, 7, 11, 15, \ldots$?**
    - Solution:
-   
+
 $$
 a_n = a_1 + (n-1)d = 3 + (10-1) \times 4 = 3 + 36 = 39
 $$
@@ -523,3 +523,163 @@ $$
 
 ---
 
+# Profit And Loss:
+
+Solving profit and loss problems:
+
+- **Cost Price (CP)**: The price at which an article is purchased.
+- **Selling Price (SP)**: The price at which an article is sold.
+- **Profit (Gain)**: If the Selling Price (SP) is greater than the Cost Price (CP).
+  - **Formula**:
+
+$$
+\text{Profit} = \text{SP} - \text{CP}
+$$
+
+- **Loss**: If the Selling Price (SP) is less than the Cost Price (CP).
+  - **Formula**:
+
+$$
+\text{Loss} = \text{CP} - \text{SP}
+$$
+
+- **Profit Percentage (Profit\%)**:
+
+$$
+\text{Profit\%} = \left(\frac{\text{Profit}}{\text{CP}}\right) \times 100
+$$
+
+- **Loss Percentage (Loss\%)**:
+
+$$
+\text{Loss\%} = \left(\frac{\text{Loss}}{\text{CP}}\right) \times 100
+$$
+
+- **Selling Price (SP) when Profit\% is given**:
+
+$$
+\text{SP} = \text{CP} \times \left(1 + \frac{\text{Profit\%}}{100}\right)
+$$
+
+- **Selling Price (SP) when Loss\% is given**:
+
+$$
+\text{SP} = \text{CP} \times \left(1 - \frac{\text{Loss\%}}{100}\right)
+$$
+
+- **Cost Price (CP) when Profit\% is given**:
+
+$$
+\text{CP} = \frac{\text{SP}}{1 + \frac{\text{Profit\%}}{100}}
+$$
+
+- **Cost Price (CP) when Loss\% is given**:
+
+$$
+\text{CP} = \frac{\text{SP}}{1 - \frac{\text{Loss\%}}{100}}
+$$
+
+---
+
+### **2. Marked Price and Discount**
+
+- **Marked Price (MP)**: The labeled price of an article before any discount is applied.
+- **Discount**: A reduction given on the Marked Price (MP).
+  - **Formula**:
+
+$$
+\text{Discount} = \text{MP} - \text{SP}
+$$
+
+- **Discount Percentage (Discount\%)**:
+
+$$
+\text{Discount\$} = \left(\frac{\text{Discount}}{\text{MP}}\right) \times 100
+$$
+
+- **Selling Price after Discount**:
+
+$$
+\text{SP} = \text{MP} \times \left(1 - \frac{\text{Discount\$}}{100}\right)
+$$
+
+---
+
+### **3. Important Formulas Recap**
+| Formula Type | Formula |
+|--------------|---------|
+| Profit       | $\text{SP} - \text{CP}$ |
+| Loss         | $\text{CP} - \text{SP}$ |
+| Profit\%      | $\left(\frac{\text{Profit}}{\text{CP}}\right) \times 100$ |
+| Loss\%        | $\left(\frac{\text{Loss}}{\text{CP}}\right) \times 100$ |
+| SP (Profit\%) | $\text{CP} \times \left(1 + \frac{\text{Profit\%}}{100}\right)$ |
+| SP (Loss\%)   | $\text{CP} \times \left(1 - \frac{\text{Loss\%}}{100}\right)$ |
+| Discount\%    | $\left(\frac{\text{Discount}}{\text{MP}}\right) \times 100$ |
+
+---
+
+### **4. Example Problems**
+
+#### **Example 1: Basic Profit Calculation**
+- **Problem**: A shopkeeper bought an item for ₹500 and sold it for ₹600. Find the profit and profit percentage.
+- **Solution**:
+  - Profit = $600 - 500 = ₹100$
+  - Profit\% = $\left(\frac{100}{500}\right) \times 100 = 20\%$
+
+#### **Example 2: Basic Loss Calculation**
+- **Problem**: An article was purchased for ₹400 and sold for ₹350. Find the loss and loss percentage.
+- **Solution**:
+  - Loss = $400 - 350 = ₹50$
+  - Loss\% = $\left(\frac{50}{400}\right) \times 100 = 12.5\%$
+
+#### **Example 3: Finding Selling Price with Profit\%**
+- **Problem**: If the cost price of an item is ₹200 and the shopkeeper wants a profit of 25\%, what should be the selling price?
+- **Solution**:
+  - SP = $200 \times \left(1 + \frac{25}{100}\right)$
+  - SP = $200 \times 1.25 = ₹250$
+
+#### **Example 4: Finding Cost Price with Loss\%**
+- **Problem**: If the selling price of an article is ₹180 and there is a 10\% loss, find the cost price.
+- **Solution**:
+  - CP = $\frac{180}{1 - \frac{10}{100}}$
+  - CP = $\frac{180}{0.9} = ₹200$
+
+#### **Example 5: Discount Calculation**
+- **Problem**: A shirt is marked at ₹1000 and is sold at a 20\% discount. What is the selling price?
+- **Solution**:
+  - Discount = $20\$$ of $1000 = ₹200$
+  - SP = $1000 - 200 = ₹800$
+
+#### **Example 6: Marked Price Problem**
+- **Problem**: A product is sold for ₹720 after a discount of 10\%. Find the marked price.
+- **Solution**:
+  - MP = $\frac{720}{1 - \frac{10}{100}}$
+  - MP = $\frac{720}{0.9} = ₹800$
+
+#### **Example 7: Successive Discounts**
+- **Problem**: A product is marked at ₹2000. Two successive discounts of 10\% and 15\% are given. Find the final selling price.
+- **Solution**:
+  - After first discount: $SP_1 = 2000 \times (1 - \frac{10}{100}) = ₹1800$
+  - After second discount: $SP_2 = 1800 \times (1 - \frac{15}{100}) = ₹1530$
+  - Final Selling Price = ₹1530
+
+#### **Example 8: Profit and Loss Together**
+- **Problem**: A trader buys a watch for ₹1200, spends ₹100 on repairs, and sells it for ₹1500. Find the profit or loss percentage.
+- **Solution**:
+  - Total Cost Price (CP) = $1200 + 100 = ₹1300$
+  - Selling Price (SP) = ₹1500
+  - Profit = $1500 - 1300 = ₹200$
+  - Profit\% = $\left(\frac{200}{1300}\right) \times 100 = 15.38\$$
+
+---
+
+### **5. Practice Questions**
+
+1. A product costs ₹500. If sold at a 20\% loss, find the selling price.
+2. An article was sold for ₹450 making a profit of 25\%. Find the cost price.
+3. A trader marks an item at ₹750 and gives a 10\% discount. What is the selling price?
+4. A product is bought for ₹2000 and sold for ₹2300. Calculate the profit percentage.
+5. If the marked price of a mobile phone is ₹15000 and a discount of 5\% is given, what is the selling price?
+
+
+---
