@@ -207,13 +207,13 @@ The new ratio is $2x : 3.6x = 5 : 9$.
 ### **Definition and Types**
 - **Fraction**: A fraction represents a part of a whole and is expressed as:
 
-  $$
-  \text{Fraction} = \frac{\text{Numerator}}{\text{Denominator}}
-  $$
+$$
+\text{Fraction} = \frac{\text{Numerator}}{\text{Denominator}}
+$$
 
-  - **Proper Fraction**: Numerator < Denominator (e.g., $\(\frac{3}{4}\)$)
-  - **Improper Fraction**: Numerator ≥ Denominator (e.g., $\(\frac{7}{5}\)$)
-  - **Mixed Fraction**: Combination of a whole number and a proper fraction (e.g., $\(2\frac{1}{3}\)$)
+  - **Proper Fraction**: Numerator < Denominator (e.g., $(\frac{3}{4})$)
+  - **Improper Fraction**: Numerator ≥ Denominator (e.g., $(\frac{7}{5})$)
+  - **Mixed Fraction**: Combination of a whole number and a proper fraction (e.g., $(2\frac{1}{3})$)
 
 ### **Basic Operations with Fractions**
 1. **Addition and Subtraction**:  
