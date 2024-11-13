@@ -993,3 +993,235 @@ $$
 5. Determine the difference between SI and CI on ₹10000 at 5% per annum for 2 years.
 
 ---
+
+# Geometric Progression Questions:
+
+Here are some **tricky questions** based on Geometric Progression (GP) with detailed solutions that cover different formulas and aspects of GP.
+
+### **Key Formulas for GP**
+
+1. **General Form of GP**:
+   - If $a$ is the first term and $r$ is the common ratio, the $n$-th term of a GP is:
+
+$$
+a_n = a \times r^{n-1}
+$$
+
+2. **Sum of First $n$ Terms**:
+   - If $|r| < 1$ (common ratio is less than 1):
+
+$$
+S_n = a \left(\frac{1 - r^n}{1 - r}\right)
+$$
+
+- If $|r| > 1$ (common ratio is greater than 1):
+
+$$
+S_n = a \left(\frac{r^n - 1}{r - 1}\right)
+$$
+
+3. **Sum of Infinite GP**:
+- If $|r| < 1$:
+
+$$
+S_{\infty} = \frac{a}{1 - r}
+$$
+
+4. **Product of Terms in GP**:
+   - The product of $n$ terms in a GP is:
+
+$$
+P = a^n \times r^{\frac{n(n-1)}{2}}
+$$
+
+### **Tricky Questions with Solutions**
+
+#### **Question 1: Finding the $n$-th Term**
+
+**Problem**: The third term of a GP is 16, and the sixth term is 128. Find the first term and the common ratio.
+
+**Solution**:
+
+Given:
+- $a_3 = 16$
+- $a_6 = 128$
+
+We know:
+
+$$
+a_3 = a \times r^{2} = 16
+$$
+$$
+a_6 = a \times r^{5} = 128
+$$
+
+Dividing these equations:
+
+$$
+\frac{a \times r^{5}}{a \times r^{2}} = \frac{128}{16}
+$$
+$$
+r^{3} = 8 \implies r = 2
+$$
+
+Substituting $r = 2$ in $a \times r^{2} = 16$:
+
+$$
+a \times 4 = 16 \implies a = 4
+$$
+
+**Answer**: The first term is $a = 4$ and the common ratio is $r = 2$.
+
+---
+
+#### **Question 2: Sum of First $n$ Terms**
+
+**Problem**: Find the sum of the first 8 terms of a GP where the first term is 3 and the common ratio is $\frac{1}{2}$.
+
+**Solution**:
+
+Given:
+- $a = 3$, $r = \frac{1}{2}$, and $n = 8$
+
+Using the formula for the sum of the first $n$ terms:
+
+$$
+S_n = a \left(\frac{1 - r^n}{1 - r}\right)
+$$
+
+Substituting the values:
+
+$$
+S_8 = 3 \left(\frac{1 - \left(\frac{1}{2}\right)^8}{1 - \frac{1}{2}}\right)
+$$
+$$
+S_8 = 3 \left(\frac{1 - \frac{1}{256}}{\frac{1}{2}}\right)
+$$
+$$
+S_8 = 3 \times \left(\frac{255}{256} \times 2\right)
+$$
+$$
+S_8 = 3 \times \frac{255}{128} = \frac{765}{128} = 5.976
+$$
+
+**Answer**: The sum of the first 8 terms is approximately $5.976$.
+
+---
+
+#### **Question 3: Sum of an Infinite GP**
+
+**Problem**: An infinite GP has its first term as 10 and the common ratio is $\frac{1}{3}$. Find the sum of this infinite series.
+
+**Solution**:
+
+Given:
+- $a = 10 $, $ r = \frac{1}{3}$
+
+Since $|r| < 1$, we use the formula for the sum of an infinite GP:
+
+$$
+S_{\infty} = \frac{a}{1 - r}
+$$
+
+Substituting the values:
+
+$$
+S_{\infty} = \frac{10}{1 - \frac{1}{3}}
+$$
+$$
+S_{\infty} = \frac{10}{\frac{2}{3}} = 10 \times \frac{3}{2} = 15
+$$
+
+**Answer**: The sum of the infinite GP is $15$.
+
+---
+
+#### **Question 4: Product of $n$ Terms of a GP**
+
+**Problem**: The first term of a GP is 5, the common ratio is 3, and there are 4 terms. Find the product of all the terms.
+
+**Solution**:
+
+Given:
+- $a = 5$, $r = 3$, $n = 4$
+
+The formula for the product of $n$ terms in a GP is:
+
+$$
+P = a^n \times r^{\frac{n(n-1)}{2}}
+$$
+
+Substituting the values:
+
+$$
+P = 5^4 \times 3^{\frac{4(3)}{2}}
+$$
+$$
+P = 625 \times 3^6 = 625 \times 729 = 455625
+$$
+
+**Answer**: The product of the 4 terms is $455625$.
+
+---
+
+#### **Question 5: Finding the Common Ratio**
+
+**Problem**: The sum of the first 3 terms of a GP is 21, and their product is 216. Find the common ratio.
+
+**Solution**:
+
+Let the first term be $a$ and the common ratio be $r$.
+
+The terms are $a$, $ar$, and $ar^2$.
+
+Given:
+
+$$
+a + ar + ar^2 = 21
+$$
+$$
+a \times ar \times ar^2 = 216 \implies a^3 r^3 = 216 \implies (ar)^3 = 216 \implies ar = 6
+$$
+
+Substituting $ar = 6$ in $a + ar + ar^2 = 21$:
+
+$$
+a + 6 + \frac{6}{a} = 21
+$$
+
+Solving this equation, we get $a = 3$ and $r = 2$.
+
+**Answer**: The common ratio is $2$.
+
+---
+
+#### **Question 6: Insertion of Geometric Means**
+
+**Problem**: Insert 3 geometric means between 2 and 162.
+
+**Solution**:
+
+Let the 3 geometric means be $G_1, G_2, G_3$. The sequence is:
+
+$$
+2, G_1, G_2, G_3, 162
+$$
+
+Since it forms a GP:
+
+$$
+162 = 2 \times r^4
+$$
+$$
+r^4 = \frac{162}{2} = 81 \implies r = 3
+$$
+
+Now, we find the geometric means:
+
+$$
+G_1 = 2 \times 3 = 6, \quad G_2 = 6 \times 3 = 18, \quad G_3 = 18 \times 3 = 54
+$$
+
+**Answer**: The 3 geometric means are $6, 18,$ and $54$.
+
+---
