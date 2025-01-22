@@ -1225,3 +1225,186 @@ $$
 **Answer**: The 3 geometric means are $6, 18,$ and $54$.
 
 ---
+---
+
+
+# Permutation and Combination
+
+
+#### **Permutation**:
+Permutation refers to the arrangement of objects **in a specific order**. The order of arrangement is important.
+
+- **Formula**:
+  The number of permutations of $n$ distinct objects taken $r$ at a time:
+
+$$
+P(n, r) = \frac{n!}{(n - r)!}
+$$
+
+  Where $n!$ (n factorial) is the product of all integers from $1$ to $n$:  
+  $n! = n \times (n-1) \times (n-2) \dots \times 1$.
+
+---
+
+#### **Combination**:
+Combination refers to the selection of objects **without considering the order**. The order of selection is irrelevant.
+
+- **Formula**:
+  The number of combinations of $n$ distinct objects taken $r$ at a time:
+
+$$
+  C(n, r) = \frac{n!}{r! \cdot (n - r)!}
+$$
+
+---
+
+### **Key Differences**:
+1. **Permutation** is for arrangements (order matters).
+2. **Combination** is for selections (order does not matter).
+
+---
+
+### **Solved Examples**
+
+#### **Permutation Examples**:
+
+1. **How many 3-letter words can be formed from the letters $A, B, C, D$ without repetition?**
+
+   **Solution**:
+   - Here, $n = 4$ (4 letters: $A, B, C, D$) and $r = 3$ (3 letters need to be arranged).
+   - Using the formula for permutation:
+
+$$
+P(4, 3) = \frac{4!}{(4 - 3)!} = \frac{4 \times 3 \times 2 \times 1}{1!} = 24
+$$
+
+   **Answer**: 24 words.
+
+---
+
+2. **In how many ways can the letters of the word "BALL" be arranged?**
+
+   **Solution**:
+   - The word "BALL" has 4 letters where $L$ repeats twice.
+   - The number of arrangements of a word with repeating letters:
+
+$$
+\text{Number of arrangements} = \frac{n!}{p_1! \cdot p_2! \cdot \dots}
+$$
+
+     Here, $n = 4$, $p_1 = 2$ (repetition of $L$).
+
+$$
+\text{Arrangements} = \frac{4!}{2!} = \frac{24}{2} = 12
+$$
+
+   **Answer**: 12 arrangements.
+
+---
+
+3. **How many 5-digit numbers can be formed using the digits $1, 2, 3, 4, 5$ without repetition?**
+
+   **Solution**:
+   - $n = 5$, $r = 5$.
+   - Using the permutation formula:
+
+$$
+P(5, 5) = \frac{5!}{(5 - 5)!} = 5! = 120
+$$
+
+   **Answer**: 120 numbers.
+
+---
+
+#### **Combination Examples**:
+
+1. **From a group of 6 students, how many ways can we select 2 students?**
+
+   **Solution**:
+   - Here, $n = 6$, $r = 2$.
+   - Using the combination formula:
+
+$$
+C(6, 2) = \frac{6!}{2! \cdot (6 - 2)!} = \frac{6 \times 5}{2 \times 1} = 15
+$$
+
+   **Answer**: 15 ways.
+
+---
+
+2. **In how many ways can a committee of 4 members be selected from 10 people?**
+
+   **Solution**:
+   - Here, $n = 10$, $r = 4$.
+   - Using the combination formula:
+
+$$
+C(10, 4) = \frac{10!}{4! \cdot (10 - 4)!} = \frac{10 \times 9 \times 8 \times 7}{4 \times 3 \times 2 \times 1} = 210
+$$
+
+   **Answer**: 210 ways.
+
+---
+
+3. **How many ways can we form a group of 3 boys and 2 girls from 5 boys and 4 girls?**
+
+   **Solution**:
+   - To select 3 boys from 5:
+
+$$
+C(5, 3) = \frac{5!}{3! \cdot (5 - 3)!} = \frac{5 \times 4}{2 \times 1} = 10
+$$
+
+   - To select 2 girls from 4:
+
+$$
+C(4, 2) = \frac{4!}{2! \cdot (4 - 2)!} = \frac{4 \times 3}{2 \times 1} = 6
+$$
+
+   - Total ways:
+
+$$
+\text{Total ways} = C(5, 3) \times C(4, 2) = 10 \times 6 = 60
+$$
+
+   **Answer**: 60 ways.
+
+---
+
+4. **How many ways can you select 5 cards from a standard 52-card deck?**
+
+   **Solution**:
+   - Here, $n = 52$, $r = 5$.
+   - Using the combination formula:
+
+$$
+C(52, 5) = \frac{52!}{5! \cdot (52 - 5)!} = \frac{52 \times 51 \times 50 \times 49 \times 48}{5 \times 4 \times 3 \times 2 \times 1} = 2598960
+$$
+
+   **Answer**: 2,598,960 ways.
+
+---
+
+### **Tricky Mixed Problem**:
+
+**Question**: How many 3-digit numbers can be formed using the digits $1, 2, 3, 4, 5$, where repetition of digits is **not allowed**, and the numbers are divisible by 5?
+
+**Solution**:
+- A number is divisible by 5 if its last digit is $5$.
+- Fix the last digit as $5$. Now, arrange the remaining $4$ digits ($1, 2, 3, 4$) in the first two places.
+- The number of permutations for the first two digits:
+
+$$
+P(4, 2) = \frac{4!}{(4 - 2)!} = 4 \times 3 = 12
+$$
+
+- Total numbers:
+
+$$
+12 \times 1 = 12
+$$
+
+**Answer**: 12 numbers.
+
+---
+---
