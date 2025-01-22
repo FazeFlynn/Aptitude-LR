@@ -1292,7 +1292,7 @@ $$
 \text{Number of arrangements} = \frac{n!}{p_1! \cdot p_2! \cdot \dots}
 $$
 
-     Here, $n = 4$, $p_1 = 2$ (repetition of $L$).
+  Here, $n = 4$, $p_1 = 2$ (repetition of $L$).
 
 $$
 \text{Arrangements} = \frac{4!}{2!} = \frac{24}{2} = 12
