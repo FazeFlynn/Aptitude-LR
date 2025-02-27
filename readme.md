@@ -272,9 +272,72 @@
 `7 13 17 19 have the same approaches with little differences`
 
 ---
+
+# Formula for Number of Factors of a Number
+
+## Step 1: Find the Prime Factorization  
+Express the number **N** as a product of prime factors in the form:
+
+
+$$
+N = p_1^{a} \times p_2^{b} \times p_3^{c} \times \dots
+$$
+
+where $p_1, p_2, p_3, \dots$ are prime numbers and $a, b, c, \dots$ are their respective exponents.
+
+## Step 2: Apply the Formula  
+The **total number of factors** (including 1 and the number itself) is given by:
+
+$$
+\text{Total Factors} = (a + 1) \times (b + 1) \times (c + 1) \times \dots
+$$
+
 ---
 
+# Example 1:
+Find the number of factors of **72**.
 
+### **Step 1: Prime Factorization**  
+
+$$
+72 = 2^3 \times 3^2
+$$
+
+### **Step 2: Apply the Formula**  
+
+$$
+\text{Total Factors} = (3+1) \times (2+1) = 4 \times 3 = 12
+$$
+
+So, **72 has 12 factors**: **1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72**.
+
+---
+
+# Example 2:
+Find the number of factors of **120**.
+
+### **Step 1: Prime Factorization**  
+
+$$
+120 = 2^3 \times 3^1 \times 5^1
+$$
+
+### **Step 2: Apply the Formula**  
+
+$$
+\text{Total Factors} = (3+1) \times (1+1) \times (1+1) = 4 \times 2 \times 2 = 16
+$$
+
+So, **120 has 16 factors**.
+
+---
+
+This method works for any number! 🚀
+
+
+
+---
+---
 
 1. **Basic Foundations**
 - **Arithmetic Basics** : Start with fundamental operations (addition, subtraction, multiplication, division).
