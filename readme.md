@@ -85,7 +85,196 @@
 
 
 ---
+
+
+### Prime number
+
+`for p > 3, if square(p) - 1 mod 24 == 0 then num is prime else not`
+
+
+
+# Divisibility Rules (2 to 19)
+
+## 2️⃣ Divisibility Rule:
+- A number is divisible by **2** if its **last digit** is **even** (0, 2, 4, 6, 8).
+
+**Example:**  
+- 248 → ✅ (last digit is 8)  
+- 357 → ❌ (last digit is 7)  
+
 ---
+
+## 3️⃣ Divisibility Rule:
+- A number is divisible by **3** if the **sum of its digits** is divisible by **3**.
+
+**Example:**  
+- 423 → 4 + 2 + 3 = **9** ✅  
+- 526 → 5 + 2 + 6 = **13** ❌  
+
+---
+
+## 4️⃣ Divisibility Rule:
+- A number is divisible by **4** if the **last two digits** form a number divisible by **4**.
+
+**Example:**  
+- 312 → **12** is divisible by 4 ✅  
+- 526 → **26** is not divisible by 4 ❌  
+
+---
+
+## 5️⃣ Divisibility Rule:
+- A number is divisible by **5** if its **last digit** is **0 or 5**.
+
+**Example:**  
+- 250 → ✅ (ends in 0)  
+- 135 → ✅ (ends in 5)  
+- 327 → ❌ (ends in 7)  
+
+---
+
+## 6️⃣ Divisibility Rule:
+- A number is divisible by **6** if it is **divisible by both 2 and 3**.
+
+**Example:**  
+- 432 → ✅ (divisible by **2** and **3**)  
+- 525 → ❌ (not divisible by **2**)  
+
+---
+
+## 7️⃣ Divisibility Rule:
+- Double the **last digit**, subtract it from the remaining number. If the result is divisible by **7**, then the number is too.
+
+**Example:**  
+- 161 → 16 - (2 × 1) = 16 - 2 = **14** ✅  
+- 152 → 15 - (2 × 2) = 15 - 4 = **11** ❌  
+
+---
+
+## 8️⃣ Divisibility Rule:
+- A number is divisible by **8** if its **last three digits** form a number divisible by **8**.
+
+**Example:**  
+- 5,120 → **120** is divisible by 8 ✅  
+- 7,236 → **236** is not divisible by 8 ❌  
+
+---
+
+## 9️⃣ Divisibility Rule:
+- A number is divisible by **9** if the **sum of its digits** is divisible by **9**.
+
+**Example:**  
+- 729 → 7 + 2 + 9 = **18** ✅  
+- 832 → 8 + 3 + 2 = **13** ❌  
+
+---
+
+## 🔟 Divisibility Rule:
+- A number is divisible by **10** if its **last digit is 0**.
+
+**Example:**  
+- 120 → ✅  
+- 245 → ❌  
+
+---
+
+## 1️⃣1️⃣ Divisibility Rule:
+- Find the **difference between the sum of digits in odd positions and the sum of digits in even positions**.  
+- If the result is **0 or divisible by 11**, then the number is too.
+
+**Example:**  
+- 121 → (1 + 1) - (2) = 0 ✅  
+- 123 → (1 + 3) - (2) = 2 ❌  
+
+---
+
+## 1️⃣2️⃣ Divisibility Rule:
+- A number is divisible by **12** if it is divisible by both **3 and 4**.
+
+**Example:**  
+- 324 → ✅ (divisible by **3** and **4**)  
+- 450 → ❌ (not divisible by **4**)  
+
+---
+
+## 1️⃣3️⃣ Divisibility Rule:
+- Remove the last digit, multiply it by **9**, and subtract from the remaining number.  
+- If the result is **divisible by 13**, then the number is too.
+
+**Example:**  
+- 117 → 11 - (7 × 9) = 11 - 63 = **-52** (divisible by 13) ✅  
+- 120 → 12 - (0 × 9) = 12 ❌  
+
+`or`
+
+- Remove the last digit, multiply it by **4**, and add from the remaining number.  
+- If the result is **divisible by 13**, then the number is too.
+
+**Example:**  
+- 117 → 11 - (7 × 4) = 11 + 28 = **39** (divisible by 13) ✅  
+- 120 → 12 - (0 × 4) = 12 ❌  
+
+---
+
+## 1️⃣4️⃣ Divisibility Rule:
+- A number is divisible by **14** if it is divisible by both **2 and 7**.
+
+**Example:**  
+- 448 → ✅ (divisible by **2** and **7**)  
+- 525 → ❌ (not divisible by **2**)  
+
+---
+
+## 1️⃣5️⃣ Divisibility Rule:
+- A number is divisible by **15** if it is divisible by both **3 and 5**.
+
+**Example:**  
+- 345 → ✅ (divisible by **3** and **5**)  
+- 520 → ❌ (not divisible by **3**)  
+
+---
+
+## 1️⃣6️⃣ Divisibility Rule:
+- A number is divisible by **16** if its **last four digits** form a number divisible by **16**.
+
+**Example:**  
+- 8,192 → **8192** is divisible by **16** ✅  
+- 7,236 → **7236** is not divisible by **16** ❌  
+
+---
+
+## 1️⃣7️⃣ Divisibility Rule:
+- Remove the last digit, multiply it by **5**, and subtract from the remaining number.  
+- If the result is **divisible by 17**, then the number is too.
+
+**Example:**  
+- 204 → 20 - (4 × 5) = 20 - 20 = **0** ✅  
+- 221 → 22 - (1 × 5) = 22 - 5 = **17** ✅  
+
+---
+
+## 1️⃣8️⃣ Divisibility Rule:
+- A number is divisible by **18** if it is divisible by both **2 and 9**.
+
+**Example:**  
+- 936 → ✅ (divisible by **2** and **9**)  
+- 723 → ❌ (not divisible by **2**)  
+
+---
+
+## 1️⃣9️⃣ Divisibility Rule:
+- Remove the last digit, multiply it by **2**, and add to the remaining number.  
+- If the result is **divisible by 19**, then the number is too.
+
+**Example:**  
+- 342 → 34 + (2 × 2) = 34 + 4 = **38** (divisible by 19) ✅  
+- 456 → 45 + (6 × 2) = 45 + 12 = **57** (not divisible by 19) ❌  
+
+`7 13 17 19 have the same approaches with little differences`
+
+---
+---
+
+
 
 1. **Basic Foundations**
 - **Arithmetic Basics** : Start with fundamental operations (addition, subtraction, multiplication, division).
