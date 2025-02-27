@@ -330,9 +330,92 @@ $$
 
 So, **120 has 16 factors**.
 
+This method works for any number! 🚀
+
 ---
 
-This method works for any number! 🚀
+
+# Formula for Sum of All Factors of a Number
+
+## Step 1: Find the Prime Factorization  
+Express the number **N** as a product of prime factors in the form:
+
+$$
+N = p_1^{a} \times p_2^{b} \times p_3^{c} \times \dots
+$$
+
+where $p_1, p_2, p_3, \dots$ are prime numbers and $a, b, c, \dots$ are their respective exponents.
+
+## Step 2: Apply the Formula  
+The **sum of all factors** is given by:
+
+$$
+S(N) = \left( \frac{p_1^{a+1} - 1}{p_1 - 1} \right) \times \left( \frac{p_2^{b+1} - 1}{p_2 - 1} \right) \times \left( \frac{p_3^{c+1} - 1}{p_3 - 1} \right) \times \dots
+$$
+
+---
+
+# Example 1:
+Find the sum of all factors of **28**.
+
+### **Step 1: Prime Factorization**  
+
+$$
+28 = 2^2 \times 7^1
+$$
+
+### **Step 2: Apply the Formula**  
+
+$$
+S(28) = \left( \frac{2^{2+1} - 1}{2 - 1} \right) \times \left( \frac{7^{1+1} - 1}{7 - 1} \right)
+$$
+
+$$
+= \left( \frac{2^3 - 1}{1} \right) \times \left( \frac{7^2 - 1}{6} \right)
+$$
+
+$$
+= \left( \frac{8 - 1}{1} \right) \times \left( \frac{49 - 1}{6} \right)
+$$
+
+$$
+= (7) \times (8) = 56
+$$
+
+So, **the sum of all factors of 28 is 56**.
+
+---
+
+# Example 2:
+Find the sum of all factors of **120**.
+
+### **Step 1: Prime Factorization** 
+
+$$
+120 = 2^3 \times 3^1 \times 5^1
+$$
+
+### **Step 2: Apply the Formula** 
+
+$$
+S(120) = \left( \frac{2^{3+1} - 1}{2 - 1} \right) \times \left( \frac{3^{1+1} - 1}{3 - 1} \right) \times \left( \frac{5^{1+1} - 1}{5 - 1} \right)
+$$
+
+$$
+= \left( \frac{16 - 1}{1} \right) \times \left( \frac{9 - 1}{2} \right) \times \left( \frac{25 - 1}{4} \right)
+$$
+
+$$
+= (15) \times (4) \times (6) = 360
+$$
+
+So, **the sum of all factors of 120 is 360**.
+
+This method helps find the sum of all divisors efficiently! 🚀
+
+---
+
+
 
 
 
