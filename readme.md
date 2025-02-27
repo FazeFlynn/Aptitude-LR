@@ -1,5 +1,94 @@
 `A structured approach to build expertise in aptitude, which will help you systematically progress from foundational concepts to advanced problem-solving:`
 
+
+### Cubes from 1 to 30
+
+\[
+\begin{array}{|c|c|}
+\hline
+\text{Number} & \text{Cube} \\
+\hline
+1  & 1   \\
+2  & 8   \\
+3  & 27  \\
+4  & 64  \\
+5  & 125 \\
+6  & 216 \\
+7  & 343 \\
+8  & 512 \\
+9  & 729 \\
+10 & 1000 \\
+11 & 1331 \\
+12 & 1728 \\
+13 & 2197 \\
+14 & 2744 \\
+15 & 3375 \\
+16 & 4096 \\
+17 & 4913 \\
+18 & 5832 \\
+19 & 6859 \\
+20 & 8000 \\
+21 & 9261 \\
+22 & 10648 \\
+23 & 12167 \\
+24 & 13824 \\
+25 & 15625 \\
+26 & 17576 \\
+27 & 19683 \\
+28 & 21952 \\
+29 & 24389 \\
+30 & 27000 \\
+\hline
+\end{array}
+\]
+
+---
+
+### Squares from 1 to 30
+
+
+\[
+\begin{array}{|c|c|}
+\hline
+\text{Number} & \text{Square} \\
+\hline
+1  & 1   \\
+2  & 4   \\
+3  & 9   \\
+4  & 16  \\
+5  & 25  \\
+6  & 36  \\
+7  & 49  \\
+8  & 64  \\
+9  & 81  \\
+10 & 100 \\
+11 & 121 \\
+12 & 144 \\
+13 & 169 \\
+14 & 196 \\
+15 & 225 \\
+16 & 256 \\
+17 & 289 \\
+18 & 324 \\
+19 & 361 \\
+20 & 400 \\
+21 & 441 \\
+22 & 484 \\
+23 & 529 \\
+24 & 576 \\
+25 & 625 \\
+26 & 676 \\
+27 & 729 \\
+28 & 784 \\
+29 & 841 \\
+30 & 900 \\
+\hline
+\end{array}
+\]
+
+---
+---
+
 1. **Basic Foundations**
 - **Arithmetic Basics** : Start with fundamental operations (addition, subtraction, multiplication, division).
 - **Percentages and Ratios** : Understand percentage calculations, ratio and proportion concepts, and their applications.
