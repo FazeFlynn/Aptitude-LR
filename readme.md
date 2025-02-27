@@ -355,6 +355,12 @@ $$
 
 ---
 
+## `OR`
+
+$$
+Sum of all Factors = p^{0} \times p^{1} \dots \times p^{a} \times q^{0} \times q^{1} \dots \times q^{b} \dots
+$$
+
 # Example 1:
 Find the sum of all factors of **28**.
 
